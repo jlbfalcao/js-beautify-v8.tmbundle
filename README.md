@@ -24,7 +24,9 @@ brew install http://github.com/jlbfalcao/homebrew/raw/a10a73e0f54c21aa38329cdfe0
 
 3. Just clone the bundle to your Textmate bundlers directory.
 
-http://github.com/jlbfalcao/js-beautify-v8.tmbundle
+    cd ~/Library/Application\ Support/TextMate/Bundles/
+    git clone git://github.com/jlbfalcao/js-beautify-v8.tmbundle.git
+    osascript -e 'tell app "TextMate" to reload bundles'    
 
 Keyboard shortcut
 =================
