@@ -20,7 +20,7 @@ http://www.sencha.com/blog/2010/10/21/make-a-javascript-formatter-with-v8-and-js
 
 ..or use my homebrew formula (I'm trying submit to oficial repository)
 
-brew install http://github.com/jlbfalcao/homebrew/raw/a10a73e0f54c21aa38329cdfe0f2f8e331aa3712/Library/Formula/jsbeautify.rb
+brew install http://github.com/jlbfalcao/homebrew/raw/master/Library/Formula/jsbeautify.rb
 
 3. Just clone the bundle to your Textmate bundlers directory.
 
